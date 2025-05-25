@@ -1,3 +1,3 @@
 # Welcome to My GitHub Page!
 
-![Team Rocket](https://en.wikipedia.org/wiki/Team_Rocket#/media/File:Team_Rocket_trio.png)
+![Pirate Flag](https://upload.wikimedia.org/wikipedia/commons/4/47/Pirate_Flag_of_Jack_Rackham.svg)
